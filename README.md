@@ -15,6 +15,6 @@ En este documento se verá la realización de una práctica con la descripción 
 
 EL primer documento realizado es un word con los datos recabados
 
-([/1.-Requerimientos1.doc](/1.-Requerimientos1.doc))
+([/1.-Requerimientos1.doc](./1.-Requerimientos1.doc))
 
 
