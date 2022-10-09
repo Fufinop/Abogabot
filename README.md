@@ -17,4 +17,4 @@ EL primer documento realizado es un word con los datos recabados
 
 ([/1.-Requerimientos1.doc](https://github.com/Fufinop/Toma_de_requerimientos/blob/d982342c36d4296252087b862e7db43b11fa40c2/01%20-%20archivos/1.-Requerimientos1.doc))
 
-[PLANTILLA](/1.-Requerimientos1.doc)
+[PLANTILLA](./1.-Requerimientos1.doc)
