@@ -14,5 +14,5 @@ En este documento se verá la realización de una práctica con la descripción 
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 EL primer documento realizado es un word con los datos recabados
-[Documento](./2.-persona.pdf)
+[Documento](01 - archivos/1.-Requerimientos1.doc)
 
