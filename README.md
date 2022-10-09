@@ -14,5 +14,5 @@ En este documento se verá la realización de una práctica con la descripción 
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 EL primer documento realizado es un word con los datos recabados
-[Documento](/1.-Requerimientos1.doc)
+([/1.-Requerimientos1.doc](https://github.com/Fufinop/Toma_de_requerimientos/blob/d982342c36d4296252087b862e7db43b11fa40c2/01%20-%20archivos/1.-Requerimientos1.doc))
 
