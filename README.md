@@ -15,6 +15,5 @@ En este documento se verá la realización de una práctica con la descripción 
 
 EL primer documento realizado es un word con los datos recabados
 
-([/1.-Requerimientos1.doc](./1.-Requerimientos1.doc))
-
+([Documento]([./1.-Requerimientos1.doc](https://github.com/Fufinop/Toma_de_requerimientos/blob/efa56309bd4af8fa6e32aa512cf90b36f4249bdb/01%20-%20archivos/1.-Requerimientos1.doc)))
 
