@@ -17,3 +17,4 @@ EL primer documento realizado es un word con los datos recabados
 
 ([Documento]([./1.-Requerimientos1.doc](https://github.com/Fufinop/Toma_de_requerimientos/blob/efa56309bd4af8fa6e32aa512cf90b36f4249bdb/01%20-%20archivos/1.-Requerimientos1.doc)))
 
+Después se realizó el buyer persona donde se muestra el cliente objetivo de este proyecto
