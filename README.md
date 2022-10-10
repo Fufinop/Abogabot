@@ -23,7 +23,8 @@ Después se realizó el buyer persona donde se muestra el cliente objetivo de es
 ![Buyer persona](https://github.com/Fufinop/Toma_de_requerimientos/blob/d4986c0139bbaeb9dba29c8d922346b46d56d979/01%20-%20archivos/Buyer%20Persona%20.png)
 
 ## **3. Publico objetivo.**
-
+A continuación se demuestra el público objetivo para el proyecto
+![Publico objetivo](https://github.com/Fufinop/Toma_de_requerimientos/blob/fe1be0383f02000673a98d865579733457f9bf21/01%20-%20archivos/publico_objetivo.png)
 ## **4. UX.**
 
 ## **5. UI.**
