@@ -1,5 +1,5 @@
 # Practica de intro
-#1. Toma_de_requerimientos
+##1. Toma_de_requerimientos
 Este es el ejemplo de una toma de requerimientos del proyecto sobre una página web
 
 En este documento se verá la realización de una práctica con la descripción siguiente:
@@ -18,6 +18,6 @@ EL primer documento realizado es un word con los datos recabados
 
 ([Documento](https://github.com/Fufinop/Toma_de_requerimientos/blob/d982342c36d4296252087b862e7db43b11fa40c2/01%20-%20archivos/1.-Requerimientos1.doc))
 
-#2. Buyer persona
+##2. Buyer persona
 Después se realizó el buyer persona donde se muestra el cliente objetivo de este proyecto
 ![Buyer persona](https://github.com/Fufinop/Toma_de_requerimientos/blob/d4986c0139bbaeb9dba29c8d922346b46d56d979/01%20-%20archivos/Buyer%20Persona%20.png)
