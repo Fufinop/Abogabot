@@ -1,5 +1,5 @@
 # Practica de intro
-##1. Toma_de_requerimientos
+##**1. Toma_de_requerimientos**
 Este es el ejemplo de una toma de requerimientos del proyecto sobre una página web
 
 En este documento se verá la realización de una práctica con la descripción siguiente:
