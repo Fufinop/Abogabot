@@ -29,14 +29,23 @@ A continuación se demuestra el público objetivo para el proyecto
 Este wireframe se ha realizado en figma. Se basó en la toma de requerimientos previa
 ![Publico objetivo](https://github.com/Fufinop/Toma_de_requerimientos/blob/c7c1733382a3eee9c4288b7e1af737a0062e088a/01%20-%20archivos/Ux.png)
 Este consta de 9 páginas las cuales cumplen con lo necesario para el correcto funcionamiento
+
 -Inicio sesión
+
 -Crear cuenta
+
 -Pagar
+
 -Payment
+
 -Inicio
+
 -Perfil usuario
+
 -Formulario
+
 -Proceso demanda
+
 -Recuperar contraseña
 
 ## **5. UI.**
