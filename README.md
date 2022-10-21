@@ -49,6 +49,7 @@ Este consta de 9 páginas las cuales cumplen con lo necesario para el correcto f
 -Recuperar contraseña
 
 ## **5. UI.**
-Una parte del diseño del ui ya esta completada(Diseño para movil). que fuel el principal requerimiento del cliente. y el diseño es el siguiente
-![UX](https://github.com/Fufinop/Toma_de_requerimientos/blob/2348775d00078744b644f0810426edd88134962f/01%20-%20archivos/low%20fidelity%20ux%20(Community).png)
+Una parte del diseño del UI ya esta completada(Diseño para movil). que fuel el principal requerimiento del cliente. y el diseño es el siguiente
+![UI](https://github.com/Fufinop/Toma_de_requerimientos/blob/2348775d00078744b644f0810426edd88134962f/01%20-%20archivos/low%20fidelity%20ux%20(Community).png)
 
+El diseño completo de la UI esta en el siguiente link, con los diseños para computadora y tablet
