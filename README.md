@@ -53,3 +53,5 @@ Una parte del diseño del UI ya esta completada(Diseño para movil). que fuel el
 ![UI](https://github.com/Fufinop/Toma_de_requerimientos/blob/2348775d00078744b644f0810426edd88134962f/01%20-%20archivos/low%20fidelity%20ux%20(Community).png)
 
 El diseño completo de la UI esta en el siguiente link, con los diseños para computadora y tablet
+
+([Documento](https://www.figma.com/file/ILSNjWZRiat3Vk9jds1CZI/low-fidelity-ux-(Community)))
