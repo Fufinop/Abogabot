@@ -24,7 +24,7 @@ Después se realizó el buyer persona donde se muestra el cliente objetivo de es
 
 ## **3. Publico objetivo.**
 A continuación se demuestra el público objetivo para el proyecto
-![Publico objetivo](https://github.com/Fufinop/Toma_de_requerimientos/blob/fe1be0383f02000673a98d865579733457f9bf21/01%20-%20archivos/publico_objetivo.png)
+![UX](https://github.com/Fufinop/Toma_de_requerimientos/blob/fe1be0383f02000673a98d865579733457f9bf21/01%20-%20archivos/publico_objetivo.png)
 ## **4. UX.**
 Este wireframe se ha realizado en figma. Se basó en la toma de requerimientos previa
 ![Publico objetivo](https://github.com/Fufinop/Toma_de_requerimientos/blob/c7c1733382a3eee9c4288b7e1af737a0062e088a/01%20-%20archivos/Ux.png)
@@ -49,4 +49,6 @@ Este consta de 9 páginas las cuales cumplen con lo necesario para el correcto f
 -Recuperar contraseña
 
 ## **5. UI.**
-En proceso...
+Una parte del diseño del ui ya esta completada(Diseño para movil). que fuel el principal requerimiento del cliente. y el diseño es el siguiente
+![UX](https://github.com/Fufinop/Toma_de_requerimientos/blob/2348775d00078744b644f0810426edd88134962f/01%20-%20archivos/low%20fidelity%20ux%20(Community).png)
+
