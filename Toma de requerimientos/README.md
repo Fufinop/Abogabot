@@ -18,22 +18,22 @@ En este documento se verá la realización de una práctica con la descripción 
 
 EL primer documento realizado es un word con los datos recabados
 
-([Documento](https://github.com/Fufinop/Toma_de_requerimientos/blob/d982342c36d4296252087b862e7db43b11fa40c2/01%20-%20archivos/1.-Requerimientos1.doc))
+([Documento](./1.-Requerimientos1.doc))
 
 ## **2. Buyer persona.**
 
 Después se realizó el buyer persona donde se muestra el cliente objetivo de este proyecto
-![Buyer persona](https://github.com/Fufinop/Toma_de_requerimientos/blob/d4986c0139bbaeb9dba29c8d922346b46d56d979/01%20-%20archivos/Buyer%20Persona%20.png)
+![Buyer persona](./Buyer%20Persona%20.png)
 
 ## **3. Publico objetivo.**
 
 A continuación se demuestra el público objetivo para el proyecto
-![UX](https://github.com/Fufinop/Toma_de_requerimientos/blob/fe1be0383f02000673a98d865579733457f9bf21/01%20-%20archivos/publico_objetivo.png)
+![Publico objetivo](publico_objetivo.png)
 
 ## **4. UX.**
 
 Este wireframe se ha realizado en Figma. Se basó en la toma de requerimientos previa
-![Publico objetivo](https://github.com/Fufinop/Toma_de_requerimientos/blob/c7c1733382a3eee9c4288b7e1af737a0062e088a/01%20-%20archivos/Ux.png)
+![UX](./Ux.png)
 Este consta de 9 páginas las cuales cumplen con lo necesario para el correcto funcionamiento
 
 -Inicio sesión
@@ -56,8 +56,8 @@ Este consta de 9 páginas las cuales cumplen con lo necesario para el correcto f
 
 ## **5. UI.**
 
-Una parte del diseño del UI ya esta completada(Diseño para movil). que fuel el principal requerimiento del cliente. y el diseño es el siguiente
-![UI](<https://github.com/Fufinop/Toma_de_requerimientos/blob/2348775d00078744b644f0810426edd88134962f/01%20-%20archivos/low%20fidelity%20ux%20(Community).png>)
+Una parte del diseño del UI ya esta completada(Diseño para Movil). que fuel el principal requerimiento del cliente. y el diseño es el siguiente
+![UI](<./low%20fidelity%20ux%20(Community).png>)
 
 El diseño completo de la UI esta en el siguiente link, con los diseños para computadora y tablet
 
